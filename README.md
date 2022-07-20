@@ -4,15 +4,15 @@ This repo contains screenshot of steps in deploying a static website to AWS
 
 ### Cloudfront endpoint
 
-![Link](https://d162lly0n0f5rv.cloudfront.net)
+[https://d162lly0n0f5rv.cloudfront.net](https://d162lly0n0f5rv.cloudfront.net)
 
 ### Bucket endpoint
 
-![Link](https://my-077723993788-bucket.s3.amazonaws.com/index.html)
+[https://my-077723993788-bucket.s3.amazonaws.com](https://my-077723993788-bucket.s3.amazonaws.com)
 
 ### Screenshots
 
-![Link](./resources/)
+[Screenshot files](./resources/)
 
 ## Create S3 Bucket
 
